@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato',sans-serif;
+
+}
+.dashboard,.projects,.tasks,.calendar,.reports,.settings
+{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+.in
+{
+  border: none;
+  margin-left: 30;
+  
+
+}
+.nag
+{
+  width: 60px;
+  height: 60px;
+  border-radius: 75px;
+  margin-right: 530px;
+  position: absolute;
+ left: 1375px;
+ top: 20px;
+
+}
+.nam
+{
+  display:flex;
+position: absolute;
+right: 700px;
+top: 5px;
+right:150px;
+top: 30px;
+font-size: 25px;
+
+ 
+}
+.ic
+{
+  width: 40px;
+  height: 40px;
+  position: absolute;
+ right: 50px;
+ top: 30px;
+}
+.searchicon
+{
+  position: absolute;
+  top: 5px;
+  
+  right: 1530px;
+  width: 40px;
+}
+.inph
+{
+  position: absolute;
+  top: 20px;
+  right:1310px;
+ height: 40px;
+ font-size: 20px;
+ bottom: 15px;
+display: block;
+border: none;
+}
+.button
+{
+  position: absolute;
+  left: 1580px;
+  top: 140px;
+  width: 150px;
+  height: 40px;
+  color: #74b489;
+}
+.head
+{
+  position: absolute;
+  left: 270px;
+  top: 130px;
+  font-size: 30px;
+}
+.yet
+{
+  margin-right: 500px;
+  font-size: 1.5rem;
+  position:absolute;
+  left: 260px;
+}
+.act
+{
+  font-size: 1.5rem;
+  position: absolute;
+  left: 930px;
+}
+.com
+{
+  margin: 20px;
+  margin-left: 680px;
+  font-size: 1.5rem;
+  position: absolute;
+  left: 930px;
+}
+.ys
+{
+position: absolute;
+left: 230px;
+  font-size:x-large;
+}
+.at
+{
+  position: absolute;
+  right: 870px;
+  font-size:x-large;
+}
+.cm
+{
+  position: absolute;
+  right: 190px;
+  font-size:x-large;
+}
